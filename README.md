@@ -12,35 +12,35 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 ### STEP 1: 
 
-Write your own steps
+Load the Iris dataset using a suitable library.
 
 ### STEP 2: 
 
-
+Preprocess the data by handling missing values and normalizing features.
 
 ### STEP 3: 
 
-
+Split the dataset into training and testing sets.
 
 ### STEP 4: 
 
-
+Train a classification model using the training data.
 
 ### STEP 5: 
 
-
+Evaluate the model on the test data and calculate accuracy.
 
 ### STEP 6: 
 
-
+Display the test accuracy, confusion matrix, and classification report.
 
 
 
 ## PROGRAM
 
-### Name:
+### Name: Saranya V
 
-### Register Number:
+### Register Number: 212223040188
 
 ```python
 class IrisClassifier(nn.Module):
@@ -65,15 +65,21 @@ Include screenshot of the dataset.
 
 ### OUTPUT
 
-## Confusion Matrix
+## Dateset Information
+<img width="817" height="577" alt="image" src="https://github.com/user-attachments/assets/5547b4f1-33a4-47a7-bfd0-57475509f0c4" />
 
-Include confusion matrix here
+
+## Confusion Matrix
+<img width="574" height="529" alt="image" src="https://github.com/user-attachments/assets/d80b3a0e-1689-48ae-8009-36c005809970" />
+
 
 ## Classification Report
-Include classification report here
+<img width="817" height="577" alt="image" src="https://github.com/user-attachments/assets/1affc019-87fa-471d-935b-d157a237e176" />
+
 
 ### New Sample Data Prediction
-Include your sample input and output here
+<img width="511" height="95" alt="image" src="https://github.com/user-attachments/assets/80ffe85f-adce-45b4-b2da-12addf129220" />
+
 
 ## RESULT
-Include your result here
+The program is executed successfully.
