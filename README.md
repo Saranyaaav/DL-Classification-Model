@@ -60,9 +60,6 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ```
 
-### Dataset Information
-Include screenshot of the dataset.
-
 ### OUTPUT
 
 ## Dateset Information
